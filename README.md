@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python and trying to make myself better in English
 - 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me : thisiszahrasadeghi@gmail.com
-- ⚡ Fun fact: I can cry even with comedy movies 😶
+- ⚡ Fun fact: I can easily cry during comedy movies 😶
 <!---
  😄 Pronouns: she/her
  ---> 
