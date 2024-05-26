@@ -1,6 +1,19 @@
-###  Hi, I’m Zahra Sadeghi 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisiszahrasadeghi&hide_progress=true)
+<h2 align="center">Hi 👋, I'm Zahra Sadeghi</h2>
+<h4 align="center">A passionate programmer from Iran</h4>
+
+● 👩‍💻 I'm a student of Bachelor's of science in software engineering.
+
+● 🌱 I’m currently learning **Python**
+
+● 💕 I'm intrested in **Machine learning and Data Science**
+
+● ☕ I extremly enjoy drinking tea during coding
+
+●  📫 How to reach me : thisiszahrasadeghi@gmail.com
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisiszahrasadeghi&hide_progress=true)
+
 <!---
  😄 Pronouns: she/her
  - 👀 I’m interested in tea , programming and hanging out with my friends
@@ -8,6 +21,7 @@
  - 🌱 I’m currently learning python and trying to make myself better in English
  - 📫 How to reach me : thisiszahrasadeghi@gmail.com
  - ⚡ Fun fact: I can easily cry during comedy movies 😶
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisiszahrasadeghi&hide_progress=true)
  ---> 
 
 <!---
