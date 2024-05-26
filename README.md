@@ -2,13 +2,13 @@
 <h2 align="center">Hi 👋, I'm Zahra Sadeghi</h2>
 <h4 align="center">A passionate programmer from Iran</h4>
 
-● 👩‍💻 I'm a student of Bachelor's of science in software engineering.
+● 👩‍💻 I'm a student of bachelor's of science in software engineering .
 
-● 🌱 I’m currently learning **Python**
+● 🌱 I’m currently learning **Python** .
 
-● 💕 I'm intrested in **Machine learning and Data Science**
+● 💕 I'm intrested in **Machine learning and Data Science** .
 
-● ☕ I extremly enjoy drinking tea during coding
+● ☕ I extremly enjoy drinking tea during coding .
 
 ●  📫 How to reach me : thisiszahrasadeghi@gmail.com
 
