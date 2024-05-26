@@ -12,6 +12,8 @@
 
 ●  📫 How to reach me : thisiszahrasadeghi@gmail.com
 
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=thisiszahrasadeghi)](https://git.io/streak-stats)
+
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisiszahrasadeghi&hide_progress=true)
 
 <!---
