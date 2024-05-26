@@ -1,5 +1,6 @@
 ###  Hi, I’m Zahra Sadeghi 👋
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisiszahrasadeghi&layout=compact)
 
 <!---
  😄 Pronouns: she/her
