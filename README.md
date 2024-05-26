@@ -1,7 +1,6 @@
 ###  Hi, I’m Zahra Sadeghi 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisiszahrasadeghi&layout=compact)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisiszahrasadeghi&hide_progress=true)
 <!---
  😄 Pronouns: she/her
  - 👀 I’m interested in tea , programming and hanging out with my friends
