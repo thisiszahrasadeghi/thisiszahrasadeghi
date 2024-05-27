@@ -3,13 +3,9 @@
 <h3 align="center">A passionate programmer</h3>
 
 ● 👩‍💻 I'm a student of bachelor's of science in software engineering .
-
 ● 🌱 I’m currently learning **Python** .
-
 ● 💕 I'm intrested in **Machine learning and Data Science** .
-
 ● ☕ I extremly enjoy drinking tea during coding .
-
 ●  📫 How to reach me : thisiszahrasadeghi@gmail.com
 
 
