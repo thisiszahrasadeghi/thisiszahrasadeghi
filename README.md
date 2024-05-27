@@ -15,11 +15,7 @@
 
 <div align="center">
   <br>
-  <a rel="nofollow" href="https://thisiszahrasadeghi.github.io/git/">
-    <img src="(https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)")
-   
-
-  </a>
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)   
 </div>
 
 
