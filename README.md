@@ -15,7 +15,7 @@
   <div align="center">
   <br>
   <a rel="nofollow" href="https://thisiszahrasadeghi.github.io/git/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisiszahrasadeghi&hide_progress=true")
+    <img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=thisiszahrasadeghi&hide_progress=true)")
 
   </a>
 </div>
