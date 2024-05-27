@@ -16,7 +16,7 @@
 <div align="center">
   <br>
   <a rel="nofollow" href="https://thisiszahrasadeghi.github.io/git/">
-    <img src="https://streak-stats.demolab.com/?user=thisiszahrasadeghi")
+    <img src="(https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)")
    
 
   </a>
