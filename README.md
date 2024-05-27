@@ -14,7 +14,7 @@
 
 <div align="center">
   <br>
-  <a rel="nofollow" href="https://thisiszahrasadeghi.github.io/git/">
+  <a rel="nofollow" href="https://github.com/thisiszahrasadeghi">
     <img src="https://streak-stats.demolab.com/?user=thisiszahrasadeghi")
 
   </a>
@@ -22,7 +22,7 @@
 
   <div align="center">
   <br>
-  <a rel="nofollow" href="https://thisiszahrasadeghi.github.io/git/">
+  <a rel="nofollow" href="https://github.com/thisiszahrasadeghi">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisiszahrasadeghi&hide_progress=true")
 
   </a>
