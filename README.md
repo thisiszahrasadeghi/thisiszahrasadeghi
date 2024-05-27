@@ -13,21 +13,10 @@
 ●  📫 How to reach me : thisiszahrasadeghi@gmail.com
 
 
-<div align="center">
+
   <br>
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)   
-</div>
-
-
- <div align="center">
-  <br>
-  <a rel="nofollow" href="https://thisiszahrasadeghi.github.io/git/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisiszahrasadeghi&hide_progress=true")
-   
-
-  </a>
-</div>
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 <!---
  😄 Pronouns: she/her
