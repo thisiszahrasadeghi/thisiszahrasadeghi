@@ -12,6 +12,9 @@
   
 ●  📫 How to reach me : thisiszahrasadeghi@gmail.com
 
+● <img width= 1.5% src="https://github.com/thisiszahrasadeghi/thisiszahrasadeghi/assets/170200995/c25a423a-9209-4b23-a23c-e192a70c2191" />    <a href="linkedin.com/in/zahra-sadeghi-430a68310"> My Linkdine</a>
+
+ 
 <div align="center">
   <br>
   <a rel="nofollow" href="https://github.com/thisiszahrasadeghi">
