@@ -10,9 +10,10 @@
   
   ● ☕ I extremly enjoy drinking tea during coding .
   
-●  📫 How to reach me : thisiszahrasadeghi@gmail.com
+●  <img width= 1.6% src="https://github.com/thisiszahrasadeghi/thisiszahrasadeghi/assets/170200995/693f8318-d478-4016-b58b-410d9f01304c" /> How to reach me : thisiszahrasadeghi@gmail.com
 
 ●  <img width= 1.6% src="https://github.com/thisiszahrasadeghi/thisiszahrasadeghi/assets/170200995/c25a423a-9209-4b23-a23c-e192a70c2191" />    My Linkdin : https://www.linkedin.com/in/zahra-sadeghi-430a68310/
+
 
  
 <div align="center">
